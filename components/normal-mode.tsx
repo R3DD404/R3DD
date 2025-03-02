@@ -155,7 +155,7 @@ const NormalMode = ({ onExit }: NormalModeProps) => {
                 <span>GitHub</span>
               </Button>
             </a>
-            <a href="https://www.instagram.com/in/R3DD404" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/r3dd404/" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" className="flex items-center space-x-2 border-green-500 text-green-500 hover:bg-green-900/20 w-32">
                 <Instagram className="h-5 w-5" />
                 <span>Instagram</span>

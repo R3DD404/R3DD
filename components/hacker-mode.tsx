@@ -136,7 +136,7 @@ const HackerMode = ({ onExit }: HackerModeProps) => {
             <p>🐦 Twitter: <a href="https://x.com/R3DD404" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">https://x.com/R3DD404</a></p>
             <p>📝 Blog: <a href="https://medium.com/@r3dd404" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">https://medium.com/@r3dd404</a></p>
             <p>💻 GitHub: <a href="https://github.com/R3DD404" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">https://github.com/R3DD404</a></p>
-            <p>📷 Instagram: <a href="https://www.instagram.com/r3dd404/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">https://www.instagram.com/r3dd404/</a></p>
+            <p>📷 Instagram: <a href="https://www.instagram.comgit/r3dd404/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">https://www.instagram.com/r3dd404/</a></p>
             <p>🎮 Discord: <a href="https://discord.gg/UCTbKtrWzf" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">https://discord.gg/UCTbKtrWzf</a></p>
             <p>📧 Email: <span className="text-green-300">r3dd.sec@gmail.com</span></p>
           </div>
