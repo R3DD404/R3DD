@@ -99,7 +99,6 @@ const NormalMode = ({ onExit }: NormalModeProps) => {
                 src="https://discord.com/widget?id=1310211863920771212&theme=dark"
                 width="550"
                 height="400"
-                allowTransparency="true"
                 frameBorder="0"
                 sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
                 className="rounded-lg"
