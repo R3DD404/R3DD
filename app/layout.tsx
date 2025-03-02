@@ -7,8 +7,11 @@ import { Toaster } from '@/components/ui/toaster';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'R3DD | Hacker Portfolio',
-  description: 'Hacker-themed portfolio website',
+  title: 'R3DD | CTF Player & Student',
+  description: 'Breaking firewalls and caffeine records',
+  icons: {
+    shortcut: '/R3DD.ico', // Use an absolute path
+  },
 };
 
 export default function RootLayout({
@@ -19,6 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        {/* Google Fonts */}
         <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
       </head>
       <body className={inter.className}>
