@@ -3,8 +3,8 @@ import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import { ThemeProvider } from '@/components/theme-provider';
 import { Toaster } from '@/components/ui/toaster';
-import { Analytics } from "@vercel/analytics/react"; // Import Analytics
-import { SpeedInsights } from "@vercel/speed-insights/next"; // Import SpeedInsights
+import { Analytics } from '@vercel/analytics/next'; // Import Analytics
+import { SpeedInsights } from '@vercel/speed-insights/next'; // Import SpeedInsights
 
 const inter = Inter({ subsets: ['latin'] });
 
