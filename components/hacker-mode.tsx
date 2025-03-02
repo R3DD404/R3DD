@@ -121,7 +121,7 @@ const HackerMode = ({ onExit }: HackerModeProps) => {
       case 'about':
         return (
           <div className="text-green-500 font-mono">
-            <p className="text-green-300 font-bold">R3DD - Ethical Hacker & Security Researcher</p>
+            <p className="text-green-300 font-bold">R3DD - CTF Player & Student</p>
             <p>Hey there, I'm R3DD — 17 years old, into cybersecurity, and spending most of my time solving labs on TryHackMe.</p>
             <p>Been at it for almost a year now — climbing leaderboards, breaking into systems (legally), and always pushing to learn more.</p>
             <p>My journey has been focused on continuous learning and growth.</p>
@@ -171,7 +171,7 @@ const HackerMode = ({ onExit }: HackerModeProps) => {
             <p>[+] Access level: root</p>
             <p>User: R3DD</p>
             <p>UID: 0</p>
-            <p>Groups: root, hackers</p>
+            <p>Groups: root, meows</p>
             <p>Shell: /bin/bash</p>
             <p>Home: /home/r3dd</p>
             <p>Last login: {new Date().toLocaleString()}</p>
