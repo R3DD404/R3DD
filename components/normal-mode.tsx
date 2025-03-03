@@ -36,7 +36,7 @@ const NormalMode = ({ onExit }: NormalModeProps) => {
       link: "https://medium.com/@r3dd404/silver-platter-walkthrough-thm-r3dd-b419acc1ce9d"
     },
     {
-      title: "TryHackMe- Lookup Walkthrough| R3DD",
+      title: "TryHackMe- Lookup Walkthrough | R3DD",
       date: "2025-02-28",
       excerpt: "Step-by-step guide to solving the Lookup room on TryHackMe, perfect for beginners looking to improve their skills.",
       tags: ["TryHackMe", "Easy"],
